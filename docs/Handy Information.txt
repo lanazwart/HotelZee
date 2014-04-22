@@ -1,0 +1,12 @@
+W3.org DOCTYPE explanation 					HTML4/5 http://www.w3.org/TR/html5-diff/#doctype
+
+Why we should specify character set 		http://shiflett.org/blog/2005/dec/googles-xss-vulnerability
+
+Character entries							http://www.digitalmediaminute.com/reference/entity/
+
+Character encoding discussion				http://diveintohtml5.info/semantics.html#encoding
+
+Identifying document language discussion	http://diveintoaccessibility.info/day_7_identifying_your_language.html
+
+Differences between HTML4 and 5		    	http://www.w3.org/TR/html5-diff/#changed-attributes
+
